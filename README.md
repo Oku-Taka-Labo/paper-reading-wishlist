@@ -1,6 +1,9 @@
 # Paper-Reading Wishlist
 
 paper-readingで誰かに読んでほしい論文のリスト
+- 研究室の多くのメンバーが関心を持ちそうな論文
+- 自分の研究とは直接関係ないけど分野のトレンドとしてチェックしておきたい論文
+- トップカンファレンスのBest Paper
 
 ### 使い方
 - paper-readingで誰かに読んでほしい論文をissueに追加
